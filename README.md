@@ -1,1 +1,1 @@
-# JavaScriptDenerTroquatte
+#Course JavaScript - Dener Troquatte
