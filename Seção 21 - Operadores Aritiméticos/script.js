@@ -27,3 +27,8 @@ console.log(10 * 5);
 //Divisão:
 console.log(10 / 2);
 console.log(50 / 10);
+
+//Resto da divisão:
+console.log(4 % 2);
+console.log(57 % 5);
+
