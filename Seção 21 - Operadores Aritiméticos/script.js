@@ -34,3 +34,6 @@ console.log(57 % 5);
 
 //Encontar número par ou ímpar:
 console.log(4 % 2); // se o resultado for 0 é par se for 1 é impar.
+
+//Exponenciação:
+console.log(10 ** 2); // Dez elevado a 2.
