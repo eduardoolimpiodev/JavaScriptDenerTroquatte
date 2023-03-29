@@ -32,3 +32,5 @@ console.log(50 / 10);
 console.log(4 % 2);
 console.log(57 % 5);
 
+//Encontar número par ou ímpar:
+console.log(4 % 2); // se o resultado for 0 é par se for 1 é impar.
