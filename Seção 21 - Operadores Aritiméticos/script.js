@@ -16,3 +16,5 @@ console.log('Eduardo ' + 'Olimpio' + ',' + ' idade: ' + 36 + ' anos.' );
 
 //Subtração:
 
+console.log(1 - 1);
+console.log('1' - 1);
